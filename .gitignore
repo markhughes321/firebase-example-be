@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependencies
+node_modules
+
+# dotenv environment variables file
+.env
+test-key.json
+articles.json
+
+# macOS
+.DS_Store
+
+# Production build
+dist
+
+# IDE files
+.idea
+.vscode
